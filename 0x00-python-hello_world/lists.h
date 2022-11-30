@@ -3,6 +3,17 @@
 
 #include <stdlib.h>
 
+<<<<<<< HEAD
+=======
+/**
+ * struct listint_s - singly linked list
+ * @n: integer
+ * @next: points to the next node
+ *
+ * Description: singly linked list node structure
+ * for Holberton project
+ */
+>>>>>>> 75e15b84530025a244a833917896f2e765b74ee1
 typedef struct listint_s
 {
 	int n;
