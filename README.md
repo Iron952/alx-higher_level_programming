@@ -1,8 +1,10 @@
-0x00 ALX System Engineering and DevOps 💥
-Learning bash, scripting, networking and web infra right now, been wanting to get on this. It's going to be FUN !!.
+ ALX System Engineering and DevOps
+ 
+Learning bash, scripting, networking and web infra right now, been wanting to get on this.
 
 About
-This repository consists of all the .Subject projects done with ALX Africa Full stack Software Engineering course in partnership with Holberton School by Iron952
+This repository consists of all the Subject projects done with ALX Africa Full stack Software Engineering course in partnership with Holberton School by Iron952
+
 0x00 : Writing basic bash scripts that perform basic stuff.
 0x01 : Linux permissions.
 0x02 : Shell, I/O Redirections and filters.
@@ -20,7 +22,7 @@ This repository consists of all the .Subject projects done with ALX Africa Full 
 0x0E : Web stack debugging #1.
 0x0F : Load balancer.
 0x10 : HTTPS SSL.
-0x11 : What happens when you type holbertonschool.com in your browser and press Enter.
+0x11 : What happens when you type google.com in your browser and press Enter.
 0x12 : Web stack debugging #2.
 0x13 : Firewall.
 0x14 : MySQL.
